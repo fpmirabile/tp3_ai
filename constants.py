@@ -1,0 +1,5 @@
+COLORS = ["Rojo", "Verde", "Blanco", "Amarillo", "Azul"]
+JOBS = ["Matemático", "Hacker", "Analista", "Ingeniero", "Desarrollador"]
+LANGS = ["Python", "Java", "JavaScript", "C#", "Otro"]
+DBS = ["Redis", "Cassandra", "HBase", "MongoDB", "Neo4J"]
+IDES = ["Brackets", "Atom", "Notepad++", "Sublime Text", "Vim"]
